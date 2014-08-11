@@ -27,4 +27,8 @@ $ cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-vibr
 1) Add Example<br/>
 2) Tests<br/>
 
+<h4>License</h4>
+
+The MIT License
+
 
